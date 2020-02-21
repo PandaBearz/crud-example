@@ -1,2 +1,0 @@
-# crud-example
-Begin app
